@@ -8,21 +8,21 @@ Welcome to phoenix (foe-niks) this is a brand new cs2 cheat based off of aimstar
 
 ## Features
 ### Aim
-  Aimbot
-  Triggerbot
+  *Aimbot
+  *Triggerbot
+  *RCS (not working currently)
 ### Visual
-  ESP
-  Glow
-  Radar
-  Crosshairs
-  No Flash
+  *ESP
+  *Glow
+  *Radar
+  *Crosshairs
+  *No Flash
 ### Misc
-  Bhop
-
-Languages Settings
-Hit Sound
-Bomb Timer
-How to Use
+  *Bhop
+### settings
+*Hit Sound
+*Bomb Timer
+##How to Use
 open cs2 
 Download the exe and open as admininistrator 
 enjoy!
