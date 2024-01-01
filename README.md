@@ -33,4 +33,4 @@ enjoy!
 Legal Disclaimer
 
 
-CheatMaster Pro is not responsible for any consequences resulting from the use of these fictional cheats. Use them at your own risk (which should be zero since they don't actually work).
+Phoenix is not responsible for any consequences resulting from the use of these  cheats. Use them at your own risk.
