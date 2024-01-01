@@ -11,6 +11,8 @@ Welcome to phoenix (foe-niks) this is a brand new cs2 cheat based off of aimstar
   * Aimbot
   * Triggerbot
   * RCS (not working currently)
+  * Flick (not working)
+  * 360 (only works on good pc/ lags game alot)
 ### Visual
   * ESP
   * Glow
