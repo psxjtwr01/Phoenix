@@ -10,7 +10,7 @@ Welcome to phoenix (foe-niks) this is a brand new cs2 cheat based off of aimstar
 ### Aim
   * Aimbot
   * Triggerbot
-  * RCS (not working currently)
+  * RCS (FIXED)
   * Flick (not working)
   * 360 (only works on good pc/ lags game alot)
 ### Visual
@@ -29,8 +29,4 @@ open cs2
 Download the exe and open as admininistrator 
 enjoy!
 
-
-Legal Disclaimer
-
-
-Phoenix is not responsible for any consequences resulting from the use of these  cheats. Use them at your own risk.
+# NOTICE PHOENIX IS RESTARTING AND BEING REMADE
